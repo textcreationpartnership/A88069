@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers remonstrance, concerning the Parliament and Army; and their proclamation to be published throughout the counties of Oxford, Gloucester, VVorcester, VVarwick, and Hartfordshire; with their present design touching the cities of London, York, Bristoll, Chester, and several other places in the west of England, a new standard to be erected, and a place of randezvouz determined. Together with the said Levellers proposals, to the Generall Councell of the Army.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88069</idno><idno type="EEBO-CITATION">99865010</idno>
+  <idno type="VID">165095</idno>
+  <idno type="EEBO-PROQUEST">2240907296</idno>
+  
+            <idno type="STC">Wing L1803A</idno>
+            <idno type="STC">Thomason E555_2</idno>
+            <idno type="STC">ESTC R205714</idno>
+            <idno type="PROQUEST">99865010</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865010e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165095)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers remonstrance, concerning the Parliament and Army; and their proclamation to be published throughout the counties of Oxford, Gloucester, VVorcester, VVarwick, and Hartfordshire; with their present design touching the cities of London, York, Bristoll, Chester, and several other places in the west of England, a new standard to be erected, and a place of randezvouz determined. Together with the said Levellers proposals, to the Generall Councell of the Army.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>May 10. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Levellers --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165095:1"/>
+            <p>THE LEVELLERS <hi>REMONSTRANCE,</hi> Concerning the <hi>Parliament</hi> and <hi>Army;</hi> and their proclama<g ref="char:EOLhyphen"/>tion to be published throughout the Counties o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ox<g ref="char:EOLhyphen"/>ford, Gloucester, VVorcester, VVarwick,</hi> and <hi>Hartford-shire;</hi> With their present Design touching the Cities of <hi>London, York, Bristoll, Chester,</hi> and several other places in the west of <hi>England,</hi> a new Standard to be erected, and a place of Randezvouz determined.</p>
+            <p>
+               <hi>Together with the said Levellers proposals, to the Generall Councell of the Army.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of man on horse</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. W. May</hi> 10. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165095:2"/>
+            <pb n="1" facs="tcp:165095:2"/>
+            <div type="declaration">
+               <head>THE LEVELERS New Declaration to the people of ENGLAND Concerning The Parliament and Army; and their Resolution to randezvouz, and set up their Standard of Sea-green Colours; with their proclama<g ref="char:EOLhyphen"/>tion touching their Design.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IN the middest of all our calamities and distracti<g ref="char:EOLhyphen"/>ons, great are the differences in these parts; new coles are even now kindling, and the turbulent spi<g ref="char:EOLhyphen"/>rits and affections of men be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n to break forth in a most violent and visible flame; for the common peo<g ref="char:EOLhyphen"/>ple flight the authority of Magistracy, and say they
+<pb n="2" facs="tcp:165095:3"/> will no longer walk under the vail and shadow of re<g ref="char:EOLhyphen"/>formation, but endeavour the speedy reforming there<g ref="char:EOLhyphen"/>of; and in order thereunto, many have declared, that they will joyn with the Levellers, for the restauration of the peoples freedoms to its just splendor and pro<g ref="char:EOLhyphen"/>priety, &amp;c. The foundation whereof, takes its first Rise from the present actings of certain troopers in this county, who have declared, and remonstrated to the people, <hi>That the present transa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion of affaires, are both arbytrary and tyrannicall, and that they will have a new Parliament, in the diss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lving whereof, an equall Re<g ref="char:EOLhyphen"/>presentative shall be freely chosen and elected:</hi> But it is hoped that all these vapours will be soon expelled &amp; blown over: For some discoveries are already made, <hi>That they had a design to surprize the Cities of</hi> Yorke, Oxford, Bristol, Gloucester, <hi>and many other places in the VVest of</hi> England, <hi>and that they had an intent to draw into a body and randezvouz, where they resolved to set up a standard of Sea-green Colours; they declare, that they have a great influence in divers Regiments of the Army; but care is taken to prevent their D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>signs, and it is not doubted but the well affected of Col.</hi> Scroops <hi>Regi<g ref="char:EOLhyphen"/>ment, Col.</hi> Harrisons, <hi>and divers others wherein they bus<g ref="char:EOLhyphen"/>sle, will be undeceived, for many thousands have declared against their present actings, and are r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>solved to sacri<g ref="char:EOLhyphen"/>fice lives and fortunes for the Parliament against all op<g ref="char:EOLhyphen"/>position whatsoever.</hi>
+               </p>
+               <p>But yet notwithstanding all opposition, they are re<g ref="char:EOLhyphen"/>solved to proceed, and to insist upon further particu<g ref="char:EOLhyphen"/>lars, a breviate whereof I shall here insert, according to the full demonstration thereof, <hi>viz.</hi>
+               </p>
+               <pb n="3" facs="tcp:165095:3"/>
+               <p>How happy were England were mens designs of en<g ref="char:EOLhyphen"/>slaving here at an end, how gladly should we here break off, and praise the Lord for his goodnesse to England? but alas the peoples hearts, are full of grief, and their eyes are full of teares, as ever, they cry out, they are deceived, their expectations is frustrated, and their liberty betrayed; they take up Davids complaint it is not an open enemy that enslaves them, not damme Cavaliers, nor rigid enviou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and surly Presbyters, but Religious and Godly friends, that have prayed, decla<g ref="char:EOLhyphen"/>red and fought together for freedom with them, that with their swords have cut in sunder the chaines of o<g ref="char:EOLhyphen"/>ther Tyrants, and yet now are become the greatest Ty<g ref="char:EOLhyphen"/>rants over their brethren themselves, which when they can refrain from sighing &amp; sob<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g, they in their bro<g ref="char:EOLhyphen"/>ken and rustick language thus expatiates: all the form of Government being corrupted and abused, the Law and administration perverted, and the peoples liber<g ref="char:EOLhyphen"/>ties betrayed; it was promised that a new foundation should be l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd by an agreement of the people, to such rig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eous Principles of Justice and common right, that as to human reason it should be impossib for any Tyrants in this or future generations to introduce bon<g ref="char:EOLhyphen"/>dage upon the people.</p>
+               <p>
+                  <hi>Proclamation hath been lately made in the name of the Levellers, throughout the Counties of</hi> Oxford, Glou<g ref="char:EOLhyphen"/>cester, Worcester, <hi>&amp;c. for all free born people to come in to their assistance; the disgestion whereof is very hard,</hi> &amp; <hi>few have little appetite to that engagement.</hi>
+               </p>
+               <closer>
+                  <dateline>Abbington <date>8 May, 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:165095:4"/>
+               <opener>
+                  <salute>Right Honoured,</salute>
+               </opener>
+               <p>THe Princes Fleet being divided into three Squadrons, Captain <hi>Moulton</hi> took <hi>Time</hi> by the fore-top, and embraced an opportunity to dispute the Western point with a Squadron of the said ships, commanded by Prince <hi>Maurice,</hi> the manner thus, <hi>viz.</hi>
+               </p>
+               <p>The said Capt. <hi>Moulten</hi> Vice-Admiral of the Irish Seas for the Parliament of England, having received certain intelligence of the present motion of the afore said Squadron, immediatly hoysted sayl, and with the Leopard, and five more ships hastned towards them, who coming within two leagues one of the other, both parties hung forth their colours, opened the Port-holes, and when they came <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thin musket shot, severall great vollies were exchanged, and a hot conflict began, which continued for the space of an hour, the fight being dis<g ref="char:EOLhyphen"/>puted with great gallantry on both sides; but the Prin<g ref="char:EOLhyphen"/>ces having not long before their engagement, posses<g ref="char:EOLhyphen"/>sed themselves of rich Prizes, invited our Mariners to a bold attempt; insomuch, that the Leopard boarded the <hi>James,</hi> but were the first and second time repulsed and beaten off, by reason of the enemies small shot which flew so violently from the Morter pieces above Decks; but the third time, they assayled so far, that after a short dispute with their half pikes, and other weapons, they forced the enemy under Decks, where the Captain of the said ship desired a parley, other<g ref="char:EOLhyphen"/>wise they were resolved to sink the ship, and sacrifice their lives in the mercilesse Seas; which being gran<g ref="char:EOLhyphen"/>ted, they desired quarter, and freely resigned themselvs up to the mercy of Parliament. During which conflict between the <hi>Leopard</hi> and the <hi>James,</hi> the rest of the ships
+<pb n="5" facs="tcp:165095:4"/> were not idle, each party striving for victory, but so soon as they perceived that the <hi>James</hi> was taken, im<g ref="char:EOLhyphen"/>mediatly hung forth a white flag, and sounded a par<g ref="char:EOLhyphen"/>ley, which being likewise granted, they also bequeathed themselves to the mercy of Parliament: so that with the losse of about 50 men, they possessed themselves of the whole Squadron, being seven in number, wher<g ref="char:EOLhyphen"/>in was above 150 pieces of Ordnance, and about 500. Mariners, with great store of provision, ammunition, match and bullet, with other rich prizes which they had taken at Sea. These ships are now all brought into this Harbour, and the Captains, and others, committed to safe custody. Many of the Princes men are sore woun<g ref="char:EOLhyphen"/>ded, so are divers of ours; but in the engagement they lost above 100 men. Prince <hi>Maurice</hi> escaped narrow<g ref="char:EOLhyphen"/>ly, but by the swift sayling of the <hi>Charls</hi> got safe to the Isle of Scilley; from whence he wrote a Letter to the prince of <hi>Wales,</hi> intimating, <hi>That if speedy supplies of men, money, and shipping be not sent vnto him, the Royall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame will be soon lost at Sea.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Plymouth</hi>
+                     <date>5 <hi>May,</hi> 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>May</hi> 8. By an Expresse from the North it is adver<g ref="char:EOLhyphen"/>tized, that the <hi>Gourdens, Oglebies,</hi> and <hi>Middletons</hi> are gathered to a great head, and have great Bodies toge<g ref="char:EOLhyphen"/>gether; and whereas formerly they did intend a parley now they reject and cast all aside they begun or in<g ref="char:EOLhyphen"/>tended with <hi>Lesiey,</hi> they are grown to such a height, that <hi>Lesley</hi> is enforced to withdraw his number of for<g ref="char:EOLhyphen"/>ces, in any measure not able to engage with theirs.</p>
+               <p>The parliament of <hi>England</hi> have ordered that a let<g ref="char:EOLhyphen"/>ter be forthwith drawn up, to be sent to the severall and respective Embassadors and Agents from forraine States, signifying, That they are resolved to seize on all
+<pb n="6" facs="tcp:165095:5"/> ships whatsoever, belonging to any King or State, that have prince <hi>Charles</hi> his Commission, or shall be desig<g ref="char:EOLhyphen"/>ned against the Common-wealth of <hi>England,</hi> and in or<g ref="char:EOLhyphen"/>der thereunto, are drawing up an Act for the same purpose, which may prove instrum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntall for the pre<g ref="char:EOLhyphen"/>venting of forraign Engagements against this Nation.</p>
+               <list>
+                  <head>The Levellers' proposals to the General Councel of the Army.</head>
+                  <item>First, That honesty is the best policy: the deep plots and witty contrivances of men in power, when incon<g ref="char:EOLhyphen"/>sistent with the will of God, requiring them to do Judgement and Justice, and to take the yolks from the oppressed, have alway been abortive, for God will not be mocked; and experience tels us, that self-see<g ref="char:EOLhyphen"/>kers though otherwise Godly and gallant men, yet are and shalbe saved as by fire; witnesse many worthy members of Parliament, who endeavouring by a Treaty to secure themselves, are by the Lord with disgrace laid aside; hee thereby no doubt intending much good to their soules, <hi>Foelix quem faciunt aliena pericula cautum,</hi> he is a happy man that takes warning by other mens h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rms.</item>
+                  <item>Secondly, Carnal mixtures with corrupt interests, are destructive to them that mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
